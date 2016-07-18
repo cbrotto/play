@@ -1,2 +1,2 @@
 # play
-Playground
+Playground with collaborators.
